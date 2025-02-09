@@ -1,0 +1,28 @@
+name: suite_finder
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.3.0
+  flutter_bloc: ^9.0.0
+  get_it: ^8.0.3
+  logger: ^2.5.0
+  carousel_slider: ^5.0.0
+  intl: ^0.20.2
+  equatable: ^2.0.7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  mocktail: ^1.0.4
+  mocktail_image_network: ^1.2.0
+
+flutter:
+  uses-material-design: true
