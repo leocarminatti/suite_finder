@@ -128,9 +128,12 @@ start coverage/html/index.html # Windows
 
 ### Demonstração do App
 
-[![Demonstração do App](https://drive.google.com/file/d/1jV9OwAFxgF-B0w0xM-Q0dMJfYCCMzpLN/view?usp=sharing)
+Veja o vídeo abaixo:
 
-Clique na imagem para assistir ao vídeo.
+<video controls>
+  <source src="https://drive.google.com/uc?export=download&id=1jV9OwAFxgF-B0w0xM-Q0dMJfYCCMzpLN" type="video/mp4">
+  Seu navegador não suporta o elemento de vídeo. <a href="https://drive.google.com/uc?export=download&id=1jV9OwAFxgF-B0w0xM-Q0dMJfYCCMzpLN">Clique aqui para baixar o vídeo.</a>
+</video>
 
 
 ## 📜 Licença
