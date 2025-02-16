@@ -126,6 +126,12 @@ xdg-open coverage/html/index.html # Linux
 start coverage/html/index.html # Windows
 ```
 
+### Demonstração do App
+
+[![Demonstração do App](https://drive.google.com/file/d/1jV9OwAFxgF-B0w0xM-Q0dMJfYCCMzpLN/view?usp=sharing)
+
+Clique na imagem para assistir ao vídeo.
+
 
 ## 📜 Licença
 Este projeto está sob a licença MIT.
